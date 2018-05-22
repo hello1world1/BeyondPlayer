@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<item-->
+        <!--android:id="@+id/ilove"-->
+        <!--android:icon="@mipmap/app_love_list"-->
+        <!--android:showAsAction="ifRoom"-->
+        <!--android:title="@string/action_contact"/>-->
+
+    <item
+        android:id="@+id/newMyMusic"
+        android:title="@string/action_contact_0"
+        android:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/ilove"
+        android:title="@string/action_contact"
+        android:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/near_play"
+        android:title="@string/action_contact_2"
+        android:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/loginApp"
+        android:title="@string/action_contact_3"
+        android:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/guanyu"
+        android:title="@string/action_contact_4"
+        android:showAsAction="ifRoom"/>
+
+
+
+</menu>
